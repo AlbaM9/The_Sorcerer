@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: cbe43ba70be1c304ba098cd65765c0cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2592600970976318274
+    second: DOGOSagua_0
+  - first:
+      213: 8197196220244301495
+    second: DOGOSagua_1
+  - first:
+      213: 2823152344401956655
+    second: DOGOSagua_2
+  - first:
+      213: -6545036512121572946
+    second: DOGOSagua_3
+  - first:
+      213: -4208824912196641940
+    second: DOGOSagua_4
+  - first:
+      213: -2024821188779573873
+    second: DOGOSagua_5
+  - first:
+      213: 7551643914998262231
+    second: DOGOSagua_6
+  - first:
+      213: -6800800957810596261
+    second: DOGOSagua_7
+  - first:
+      213: -8404200866639238205
+    second: DOGOSagua_8
+  - first:
+      213: -1711520291180073172
+    second: DOGOSagua_9
+  - first:
+      213: 9106376283621795215
+    second: DOGOSagua_10
+  - first:
+      213: 2798908517642029440
+    second: DOGOSagua_11
+  - first:
+      213: 7171810502095337649
+    second: DOGOSagua_12
+  - first:
+      213: 608449870374606017
+    second: DOGOSagua_13
+  - first:
+      213: 7403135516294960957
+    second: DOGOSagua_14
+  - first:
+      213: 3913366311425770100
+    second: DOGOSagua_15
+  - first:
+      213: -8823730069152685908
+    second: DOGOSagua_16
+  - first:
+      213: 4576255105478917599
+    second: DOGOSagua_17
+  - first:
+      213: 7531342362952643784
+    second: DOGOSagua_18
+  - first:
+      213: 5548625686568960621
+    second: DOGOSagua_19
+  - first:
+      213: -3726197671722049868
+    second: DOGOSagua_20
+  - first:
+      213: 6714785162656835688
+    second: DOGOSagua_21
+  - first:
+      213: -767911142230040625
+    second: DOGOSagua_22
+  - first:
+      213: -7305372631314530400
+    second: DOGOSagua_23
+  - first:
+      213: -5852483879047654490
+    second: DOGOSagua_24
+  - first:
+      213: 1962206829663747965
+    second: DOGOSagua_25
+  - first:
+      213: -5293408986918345000
+    second: DOGOSagua_26
+  - first:
+      213: -6888573870109918770
+    second: DOGOSagua_27
+  - first:
+      213: -5796470641740047140
+    second: DOGOSagua_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DOGOSagua_0
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 3101
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcaf90372b350cd0800000000000000
+      internalID: -2592600970976318274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_1
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3110
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b616dd188a42c170800000000000000
+      internalID: 8197196220244301495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_2
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc3ea791add2720800000000000000
+      internalID: 2823152344401956655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_3
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 3110
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1380528fb5b25a0800000000000000
+      internalID: -6545036512121572946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_4
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 3098
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b54baaa004795c0800000000000000
+      internalID: -4208824912196641940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_5
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 3099
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dfb155bd366e3e0800000000000000
+      internalID: -2024821188779573873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_6
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 3081
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d926bf5124dcc860800000000000000
+      internalID: 7551643914998262231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_7
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 3079
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b562091af83be91a0800000000000000
+      internalID: -6800800957810596261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_8
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3075
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb20f2d6d74e5b80800000000000000
+      internalID: -8404200866639238205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_9
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 3075
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fa65afc557f38e0800000000000000
+      internalID: -1711520291180073172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2366
+        width: 694
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85a1587bf8506e70800000000000000
+      internalID: 9106376283621795215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_11
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2365
+        width: 683
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0894ed0b778b7d620800000000000000
+      internalID: 2798908517642029440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_12
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 2370
+        width: 676
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8fecd57a3678360800000000000000
+      internalID: 7171810502095337649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_13
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 2366
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c49f43fee5a17800800000000000000
+      internalID: 608449870374606017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_14
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2253
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37d6d057883db660800000000000000
+      internalID: 7403135516294960957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_15
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2258
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47283842de11f4630800000000000000
+      internalID: 3913366311425770100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2194
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a8329040db8580800000000000000
+      internalID: -8823730069152685908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_17
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1593
+        width: 694
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd73abb5cf128f30800000000000000
+      internalID: 4576255105478917599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1559
+        width: 694
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4b4a1f9f3b48860800000000000000
+      internalID: 7531342362952643784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_19
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2181
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d620d8ff9ada00d40800000000000000
+      internalID: 5548625686568960621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_20
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1583
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be9e16b5f2e94cc0800000000000000
+      internalID: -3726197671722049868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_21
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1405
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868693b6785bf2d50800000000000000
+      internalID: 6714785162656835688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_22
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1189
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf505c72e4d755f0800000000000000
+      internalID: -767911142230040625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_23
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1151
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aff2ae1c4a1e9a90800000000000000
+      internalID: -7305372631314530400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 301
+        width: 116
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a31aa77becc7cea0800000000000000
+      internalID: -5852483879047654490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_25
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 322
+        width: 182
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ff3f127b82b3b10800000000000000
+      internalID: 1962206829663747965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_26
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 381
+        width: 235
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d62fd372980a86b0800000000000000
+      internalID: -5293408986918345000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_27
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 494
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec97f07ff8ed660a0800000000000000
+      internalID: -6888573870109918770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSagua_28
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 368
+        width: 4
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc9a1099acce8fa0800000000000000
+      internalID: -5796470641740047140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

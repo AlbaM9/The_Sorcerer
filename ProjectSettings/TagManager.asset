@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Water
+  - Air
+  - Earth
+  - Uranus
+  - Mercury
+  - Walls
+  - GreenP
+  - PurpleP
+  - BlueP
+  - BlackP
+  - RedP
+  - laser
+  - Sala
+  - Saturn
+  - Venus
+  - EarthBossP
+  - WaterBossP
+  - FireBossP
+  - AirBossP
+  - Bats
+  - FireRed
+  - FireBlue
+  - FireGreen
+  - FirePurple
+  - ExitGate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BlockingLayer
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1265222769
+    locked: 0
+  - name: Units
+    uniqueID: 2722775749
+    locked: 0
+  - name: Items
+    uniqueID: 1770988289
+    locked: 0
