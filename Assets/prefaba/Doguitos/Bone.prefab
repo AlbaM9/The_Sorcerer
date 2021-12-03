@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5635133984229688034}
   - component: {fileID: 5635133984229688037}
   - component: {fileID: 5635133984229688033}
-  - component: {fileID: 5635133984229688032}
+  - component: {fileID: 6434029116113960484}
   m_Layer: 0
   m_Name: Bone
   m_TagString: Untagged
@@ -120,7 +120,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 1.1603333, y: 2.36}
   m_Direction: 0
---- !u!114 &5635133984229688032
+--- !u!114 &6434029116113960484
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -132,5 +132,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c3f5fbbd6575da4ca83f8a5e974847a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
   force: 5

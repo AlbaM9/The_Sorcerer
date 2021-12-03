@@ -13,6 +13,7 @@ public class DogosBehaveur : MonoBehaviour
     public Transform spawnbone;
 
     public GameObject dogoEye;
+    public GameObject attackDetector;
     public enum DogoStatus
     {
 
@@ -30,12 +31,13 @@ public class DogosBehaveur : MonoBehaviour
         
         StartCoroutine(Statuses());
         dogoEye.SetActive (false);
+        attackDetector.SetActive(true);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+      
     }
     IEnumerator Statuses()
     {
@@ -63,18 +65,25 @@ public class DogosBehaveur : MonoBehaviour
 
             case DogoStatus.IDLE:
 
+                attackDetector.SetActive(true);
                 anim.SetBool("Attack", false);
-                if (beingDamaged == true)
-                {
-                    fBStatus = DogoStatus.IDLE;
-                }
-                else
-                {
-                    StartCoroutine(Statuses());
-                }
+                StartCoroutine(Statuses());
+
+                /*    if (beingDamaged == true)
+                    {
+
+                        Debug.Log("No puedo atacarte");
+
+                    }
+                    else 
+                    {
+                        fBStatus = DogoStatus.ATTACK_1;
+                        StartCoroutine(Statuses());
+                    }*/
 
                 break;
             case DogoStatus.ATTACK_1:
+                attackDetector.SetActive(false);
                 anim.SetBool("Attack", true);
                 dogoEye.SetActive(true);
 
@@ -86,8 +95,10 @@ public class DogosBehaveur : MonoBehaviour
         }
 
     }
-    
-    
+
+
+   
+
     IEnumerator Timer()
     {
 
@@ -97,4 +108,6 @@ public class DogosBehaveur : MonoBehaviour
         dogoEye.SetActive(false);
         //hay que poner en el target el script de vida y daños del chucho.
     }
+    
+    
 }
