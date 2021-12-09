@@ -1,94 +1,124 @@
 fileFormatVersion: 2
-guid: 19a716d9b48a72f4dbf76100125ed98b
+guid: 08854b1a226923e4b9fae7dad8a64299
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5475233343849657998
-    second: DOGOSfuego_0
+      213: 2706643760539718588
+    second: DOGOS_0
   - first:
-      213: -3509318014847643963
-    second: DOGOSfuego_1
+      213: -2613425020807587814
+    second: DOGOS_1
   - first:
-      213: 5183539523321774084
-    second: DOGOSfuego_2
+      213: 6792122221261958101
+    second: DOGOS_2
   - first:
-      213: 3140861690206895084
-    second: DOGOSfuego_3
+      213: -3687142036552930238
+    second: DOGOS_3
   - first:
-      213: -5117530677253188342
-    second: DOGOSfuego_4
+      213: -8582987422324423965
+    second: DOGOS_4
   - first:
-      213: 1388733816275765147
-    second: DOGOSfuego_5
+      213: 3919714318448393780
+    second: DOGOS_5
   - first:
-      213: 3153009086783864513
-    second: DOGOSfuego_6
+      213: 8427777472876195144
+    second: DOGOS_6
   - first:
-      213: 8643540498716094118
-    second: DOGOSfuego_7
+      213: 5430367864388625127
+    second: DOGOS_7
   - first:
-      213: -8238549032426398674
-    second: DOGOSfuego_8
+      213: 2573356851878964111
+    second: DOGOS_8
   - first:
-      213: 2977290647775143063
-    second: DOGOSfuego_9
+      213: -3327595185696528774
+    second: DOGOS_9
   - first:
-      213: 6588760464224686820
-    second: DOGOSfuego_10
+      213: -2719527812118106217
+    second: DOGOS_10
   - first:
-      213: -7349919920893930734
-    second: DOGOSfuego_11
+      213: 8232372494256150473
+    second: DOGOS_11
   - first:
-      213: 3021750405009973402
-    second: DOGOSfuego_12
+      213: 404506912092504445
+    second: DOGOS_12
   - first:
-      213: -3304473378508660315
-    second: DOGOSfuego_13
+      213: 808788486528771383
+    second: DOGOS_13
   - first:
-      213: 3582757593591177030
-    second: DOGOSfuego_14
+      213: 4302133897285174111
+    second: DOGOS_14
   - first:
-      213: 8674965619537133741
-    second: DOGOSfuego_15
+      213: -2933449791107689994
+    second: DOGOS_15
   - first:
-      213: -264943196078478571
-    second: DOGOSfuego_16
+      213: -3767858313312108466
+    second: DOGOS_16
   - first:
-      213: -212457808373588194
-    second: DOGOSfuego_17
+      213: -64864648212577112
+    second: DOGOS_17
   - first:
-      213: 25567994945221174
-    second: DOGOSfuego_18
+      213: 5624399208270368995
+    second: DOGOS_18
   - first:
-      213: -354706934570455677
-    second: DOGOSfuego_19
+      213: -3507088495463892483
+    second: DOGOS_19
   - first:
-      213: -1750145628149387970
-    second: DOGOSfuego_20
+      213: 57322222194367469
+    second: DOGOS_20
   - first:
-      213: 458585311221330203
-    second: DOGOSfuego_21
+      213: -9222106613825757572
+    second: DOGOS_21
   - first:
-      213: 436216206939253631
-    second: DOGOSfuego_22
+      213: -5076061258958767108
+    second: DOGOS_22
   - first:
-      213: 1154437838146545496
-    second: DOGOSfuego_23
+      213: -4939403803063025505
+    second: DOGOS_23
   - first:
-      213: -8727334203647538166
-    second: DOGOSfuego_24
+      213: -7109590606908497989
+    second: DOGOS_24
   - first:
-      213: -5719833402351118442
-    second: DOGOSfuego_25
+      213: 3025857431846402710
+    second: DOGOS_25
   - first:
-      213: 9141409116795583032
-    second: DOGOSfuego_26
+      213: 5101035187103620814
+    second: DOGOS_26
   - first:
-      213: -4311630237732257198
-    second: DOGOSfuego_27
+      213: -7415227281994678871
+    second: DOGOS_27
   - first:
-      213: -6009278318607707063
-    second: DOGOSfuego_28
+      213: -3517210909349377835
+    second: DOGOS_28
+  - first:
+      213: -4674006954033206549
+    second: DOGOS_29
+  - first:
+      213: 1693153214667152576
+    second: DOGOS_30
+  - first:
+      213: -1627951625861095243
+    second: DOGOS_31
+  - first:
+      213: 7892096508903737570
+    second: DOGOS_32
+  - first:
+      213: 3668464001245664892
+    second: DOGOS_33
+  - first:
+      213: -4867452190222964280
+    second: DOGOS_34
+  - first:
+      213: -1057891957182614220
+    second: DOGOS_35
+  - first:
+      213: -5666607521347510222
+    second: DOGOS_36
+  - first:
+      213: 3497129819580549676
+    second: DOGOS_37
+  - first:
+      213: -7976312608810466243
+    second: DOGOS_38
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -190,7 +220,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DOGOSfuego_0
+      name: DOGOS_0
       rect:
         serializedVersion: 2
         x: 1270
@@ -204,14 +234,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 279877568401404b0800000000000000
-      internalID: -5475233343849657998
+      spriteID: cb35f78e82eef8520800000000000000
+      internalID: 2706643760539718588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_1
+      name: DOGOS_1
       rect:
         serializedVersion: 2
         x: 1281
@@ -225,14 +255,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ce8021dbd56c4fc0800000000000000
-      internalID: -3509318014847643963
+      spriteID: a1855a34acf3bbbd0800000000000000
+      internalID: -2613425020807587814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_2
+      name: DOGOS_2
       rect:
         serializedVersion: 2
         x: 2069
@@ -246,14 +276,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 400cace9bb1afe740800000000000000
-      internalID: 5183539523321774084
+      spriteID: 5db2b5d8c27724e50800000000000000
+      internalID: 6792122221261958101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_3
+      name: DOGOS_3
       rect:
         serializedVersion: 2
         x: 2081
@@ -267,14 +297,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ceb3a65f015969b20800000000000000
-      internalID: 3140861690206895084
+      spriteID: 24c2ad26ad3a4dcc0800000000000000
+      internalID: -3687142036552930238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_4
+      name: DOGOS_4
       rect:
         serializedVersion: 2
         x: 1309
@@ -288,14 +318,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a05d82f76f0eaf8b0800000000000000
-      internalID: -5117530677253188342
+      spriteID: 3e205bcf96a13e880800000000000000
+      internalID: -8582987422324423965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_5
+      name: DOGOS_5
       rect:
         serializedVersion: 2
         x: 2108
@@ -309,14 +339,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9780be4c06c54310800000000000000
-      internalID: 1388733816275765147
+      spriteID: 43ef024b76f956630800000000000000
+      internalID: 3919714318448393780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_6
+      name: DOGOS_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3081
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d23d495fa75f470800000000000000
+      internalID: 8427777472876195144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOS_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3078
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2a4942dca8c5b40800000000000000
+      internalID: 5430367864388625127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOS_8
       rect:
         serializedVersion: 2
         x: 1375
@@ -330,14 +402,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ceb45f1f0db1cb20800000000000000
-      internalID: 3153009086783864513
+      spriteID: f8b209c2c6666b320800000000000000
+      internalID: 2573356851878964111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_7
+      name: DOGOS_9
       rect:
         serializedVersion: 2
         x: 2175
@@ -351,14 +423,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6aeeca3c94604f770800000000000000
-      internalID: 8643540498716094118
+      spriteID: a7622481fc102d1d0800000000000000
+      internalID: -3327595185696528774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_8
+      name: DOGOS_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3067
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa7e11ddb424ad0800000000000000
+      internalID: -2719527812118106217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOS_11
       rect:
         serializedVersion: 2
         x: 1374
@@ -372,14 +465,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2c16910e4bcaad80800000000000000
-      internalID: -8238549032426398674
+      spriteID: 9c795d2aa234f3270800000000000000
+      internalID: 8232372494256150473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_9
+      name: DOGOS_12
       rect:
         serializedVersion: 2
         x: 2187
@@ -393,20 +486,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 794eabdd116715920800000000000000
-      internalID: 2977290647775143063
+      spriteID: d71c674b4e81d9500800000000000000
+      internalID: 404506912092504445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_10
+      name: DOGOS_13
       rect:
         serializedVersion: 2
-        x: 86
-        y: 2366
-        width: 694
-        height: 690
+        x: 523
+        y: 3065
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,20 +507,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e21044cbbaff6b50800000000000000
-      internalID: 6588760464224686820
+      spriteID: 73529f5e7d4693b00800000000000000
+      internalID: 808788486528771383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_11
+      name: DOGOS_14
       rect:
         serializedVersion: 2
-        x: 911
-        y: 2365
-        width: 683
-        height: 698
+        x: 1386
+        y: 3070
+        width: 5
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,14 +528,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 213dc8306c6dff990800000000000000
-      internalID: -7349919920893930734
+      spriteID: f5389d36cff34bb30800000000000000
+      internalID: 4302133897285174111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_12
+      name: DOGOS_15
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 3053
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1159205fa4a47d0800000000000000
+      internalID: -2933449791107689994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOS_16
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 3066
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e408707b3d0e5bbc0800000000000000
+      internalID: -3767858313312108466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOS_17
       rect:
         serializedVersion: 2
         x: 1731
@@ -456,14 +591,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a902382cbf96fe920800000000000000
-      internalID: 3021750405009973402
+      spriteID: 8a40fc432fd891ff0800000000000000
+      internalID: -64864648212577112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_13
+      name: DOGOS_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2366
+        width: 694
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e091f3d741ed0e40800000000000000
+      internalID: 5624399208270368995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOS_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2365
+        width: 683
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9f3004891545fc0800000000000000
+      internalID: -3507088495463892483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOS_20
       rect:
         serializedVersion: 2
         x: 2029
@@ -477,14 +654,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a1a14858f62422d0800000000000000
-      internalID: -3304473378508660315
+      spriteID: deb91a3e146abc000800000000000000
+      internalID: 57322222194367469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_14
+      name: DOGOS_21
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2271
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e922245ee740080800000000000000
+      internalID: -9222106613825757572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOS_22
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2260
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf3a9dd253e89b0800000000000000
+      internalID: -5076061258958767108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOS_23
       rect:
         serializedVersion: 2
         x: 483
@@ -498,20 +717,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64fd5529c0388b130800000000000000
-      internalID: 3582757593591177030
+      spriteID: f9007344966b37bb0800000000000000
+      internalID: -4939403803063025505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_15
+      name: DOGOS_24
       rect:
         serializedVersion: 2
-        x: 1482
+        x: 1506
         y: 2258
-        width: 32
-        height: 20
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -519,14 +738,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da0cc3fd44ba36870800000000000000
-      internalID: 8674965619537133741
+      spriteID: bbfd3c0e209a55d90800000000000000
+      internalID: -7109590606908497989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_16
+      name: DOGOS_25
       rect:
         serializedVersion: 2
         x: 497
@@ -540,14 +759,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51be510219bb25cf0800000000000000
-      internalID: -264943196078478571
+      spriteID: 69a3e267d410ef920800000000000000
+      internalID: 3025857431846402710
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_17
+      name: DOGOS_26
       rect:
         serializedVersion: 2
         x: 1069
@@ -561,14 +780,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1f522abfb23d0df0800000000000000
-      internalID: -212457808373588194
+      spriteID: ece541ae9748ac640800000000000000
+      internalID: 5101035187103620814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_18
+      name: DOGOS_27
       rect:
         serializedVersion: 2
         x: 156
@@ -582,14 +801,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6323458b4f5da5000800000000000000
-      internalID: 25567994945221174
+      spriteID: 9adfbe71312d71990800000000000000
+      internalID: -7415227281994678871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_19
+      name: DOGOS_28
       rect:
         serializedVersion: 2
         x: 729
@@ -603,14 +822,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38d6f8d1ce3d31bf0800000000000000
-      internalID: -354706934570455677
+      spriteID: 5d80a1c105b503fc0800000000000000
+      internalID: -3517210909349377835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_20
+      name: DOGOS_29
       rect:
         serializedVersion: 2
         x: 1416
@@ -624,14 +843,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3de3f8e2db36b7e0800000000000000
-      internalID: -1750145628149387970
+      spriteID: bea25237077922fb0800000000000000
+      internalID: -4674006954033206549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_21
+      name: DOGOS_30
       rect:
         serializedVersion: 2
         x: 1321
@@ -645,14 +864,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b113f8e29e83d5600800000000000000
-      internalID: 458585311221330203
+      spriteID: 0ccdb86c0e94f7710800000000000000
+      internalID: 1693153214667152576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_22
+      name: DOGOS_31
       rect:
         serializedVersion: 2
         x: 1287
@@ -666,14 +885,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7be1eb3450cd0600800000000000000
-      internalID: 436216206939253631
+      spriteID: 5b0a70d1f9a5869e0800000000000000
+      internalID: -1627951625861095243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_23
+      name: DOGOS_32
       rect:
         serializedVersion: 2
         x: 1354
@@ -687,14 +906,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 857aef9e813650010800000000000000
-      internalID: 1154437838146545496
+      spriteID: 2e8ce42f5fb568d60800000000000000
+      internalID: 7892096508903737570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_24
+      name: DOGOS_33
       rect:
         serializedVersion: 2
         x: 479
@@ -708,14 +927,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0cc87bf7c742e680800000000000000
-      internalID: -8727334203647538166
+      spriteID: c765e81a29009e230800000000000000
+      internalID: 3668464001245664892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_25
+      name: DOGOS_34
       rect:
         serializedVersion: 2
         x: 813
@@ -729,14 +948,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 697927653d11f90b0800000000000000
-      internalID: -5719833402351118442
+      spriteID: 8c920989506537cb0800000000000000
+      internalID: -4867452190222964280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_26
+      name: DOGOS_35
       rect:
         serializedVersion: 2
         x: 1111
@@ -750,14 +969,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83a3e11982fccde70800000000000000
-      internalID: 9141409116795583032
+      spriteID: 4353361bedc9151f0800000000000000
+      internalID: -1057891957182614220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_27
+      name: DOGOS_36
       rect:
         serializedVersion: 2
         x: 1175
@@ -771,14 +990,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 252c22d84230a24c0800000000000000
-      internalID: -4311630237732257198
+      spriteID: 23066887b7a2c51b0800000000000000
+      internalID: -5666607521347510222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DOGOSfuego_28
+      name: DOGOS_37
       rect:
         serializedVersion: 2
         x: 478
@@ -792,8 +1011,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9445eee2531ca9ca0800000000000000
-      internalID: -6009278318607707063
+      spriteID: c2a4685da0d488030800000000000000
+      internalID: 3497129819580549676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOS_38
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 331
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34026e41f17e4190800000000000000
+      internalID: -7976312608810466243
       vertices: []
       indices: 
       edges: []

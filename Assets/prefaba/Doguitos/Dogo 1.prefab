@@ -74,8 +74,8 @@ GameObject:
   - component: {fileID: 517356486229799728}
   - component: {fileID: 5527748052343989675}
   m_Layer: 0
-  m_Name: Dogo
-  m_TagString: Untagged
+  m_Name: Dogo 1
+  m_TagString: AirDogo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -137,7 +137,7 @@ SpriteRenderer:
   m_SortingLayerID: -1572191547
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: ba69c5b03ac7966458337b89d2b81f28, type: 2}
+  m_Sprite: {fileID: 9106376283621795215, guid: cbe43ba70be1c304ba098cd65765c0cf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -202,6 +202,7 @@ MonoBehaviour:
   bone: {fileID: 5635133984229688036, guid: 27882d733180e38469b8814d106ebead, type: 3}
   spawnbone: {fileID: 2190169051436718655}
   dogoEye: {fileID: 2290229981753074621}
+  attackDetector: {fileID: 0}
 --- !u!1 &2290229981753074621
 GameObject:
   m_ObjectHideFlags: 0

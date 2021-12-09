@@ -107,6 +107,7 @@ public class DogosBehaveur : MonoBehaviour
         yield return new WaitForSeconds(1.5f);
         dogoEye.SetActive(false);
         //hay que poner en el target el script de vida y daños del chucho.
+        //if tag de cada bicho se instancia un hueso distinto; Va a haber 4 huesos de los 4 elementos;
     }
     
     

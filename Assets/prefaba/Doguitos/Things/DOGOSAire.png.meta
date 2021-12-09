@@ -1,7 +1,124 @@
 fileFormatVersion: 2
 guid: e20f056fedc849d42a36e12999fb25bd
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6752871631260896521
+    second: DOGOSAire_0
+  - first:
+      213: 2457695149382417627
+    second: DOGOSAire_1
+  - first:
+      213: 2957962978202635588
+    second: DOGOSAire_2
+  - first:
+      213: -6053140957217741130
+    second: DOGOSAire_3
+  - first:
+      213: 3398676297256502731
+    second: DOGOSAire_4
+  - first:
+      213: -365362571051974083
+    second: DOGOSAire_5
+  - first:
+      213: 8750618009415482039
+    second: DOGOSAire_6
+  - first:
+      213: 4494098025633617862
+    second: DOGOSAire_7
+  - first:
+      213: -6600410493765150897
+    second: DOGOSAire_8
+  - first:
+      213: -5616668377864554439
+    second: DOGOSAire_9
+  - first:
+      213: -7922480050564174209
+    second: DOGOSAire_10
+  - first:
+      213: 141059526512017970
+    second: DOGOSAire_11
+  - first:
+      213: 4206126208418489833
+    second: DOGOSAire_12
+  - first:
+      213: 2055601093093460828
+    second: DOGOSAire_13
+  - first:
+      213: -1444858103452164662
+    second: DOGOSAire_14
+  - first:
+      213: -537262426642155419
+    second: DOGOSAire_15
+  - first:
+      213: 6812320048816961569
+    second: DOGOSAire_16
+  - first:
+      213: 2402661567131922908
+    second: DOGOSAire_17
+  - first:
+      213: -8114454174519511966
+    second: DOGOSAire_18
+  - first:
+      213: -4888651827599534919
+    second: DOGOSAire_19
+  - first:
+      213: -7550974103556133152
+    second: DOGOSAire_20
+  - first:
+      213: 1394901249237761054
+    second: DOGOSAire_21
+  - first:
+      213: 2289585088833086883
+    second: DOGOSAire_22
+  - first:
+      213: 1089081775323387394
+    second: DOGOSAire_23
+  - first:
+      213: -6239780755532911036
+    second: DOGOSAire_24
+  - first:
+      213: -9064525804781826860
+    second: DOGOSAire_25
+  - first:
+      213: -4689593162467072702
+    second: DOGOSAire_26
+  - first:
+      213: 873330843225817391
+    second: DOGOSAire_27
+  - first:
+      213: 3786518104344775727
+    second: DOGOSAire_28
+  - first:
+      213: -7972210655786404380
+    second: DOGOSAire_29
+  - first:
+      213: 2948065446154756213
+    second: DOGOSAire_30
+  - first:
+      213: -7503759700125251318
+    second: DOGOSAire_31
+  - first:
+      213: 3441392532345077348
+    second: DOGOSAire_32
+  - first:
+      213: 24545460896288481
+    second: DOGOSAire_33
+  - first:
+      213: 1823449999473980628
+    second: DOGOSAire_34
+  - first:
+      213: 8580704519358452972
+    second: DOGOSAire_35
+  - first:
+      213: 4797484431222397355
+    second: DOGOSAire_36
+  - first:
+      213: 4794455930034889517
+    second: DOGOSAire_37
+  - first:
+      213: -7068487884982803610
+    second: DOGOSAire_38
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +158,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +192,852 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: DOGOSAire_0
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 3101
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d4e1b68f407bd50800000000000000
+      internalID: 6752871631260896521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_1
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3110
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcb32987bc7b1220800000000000000
+      internalID: 2457695149382417627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_2
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d468e18abcc0920800000000000000
+      internalID: 2957962978202635588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_3
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 3110
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b62badce5ceefba0800000000000000
+      internalID: -6053140957217741130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_4
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 3098
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5838cd5168a2f20800000000000000
+      internalID: 3398676297256502731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_5
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 3099
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32493a6da8fdeaf0800000000000000
+      internalID: -365362571051974083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3081
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba785087b0707970800000000000000
+      internalID: 8750618009415482039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3078
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71da3f75e3e5e30800000000000000
+      internalID: 4494098025633617862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_8
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 3081
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f471e5b50a1a664a0800000000000000
+      internalID: -6600410493765150897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_9
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 3079
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938b6346ed59d02b0800000000000000
+      internalID: -5616668377864554439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3067
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ee00e7e52bd0290800000000000000
+      internalID: -7922480050564174209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_11
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3075
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2320fe954e425f100800000000000000
+      internalID: 141059526512017970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_12
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 3075
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5ae3560892f5a30800000000000000
+      internalID: 4206126208418489833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_13
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3065
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8db99d46f68c10800000000000000
+      internalID: 2055601093093460828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_14
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3070
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd93e8c535d2fbe0800000000000000
+      internalID: -1444858103452164662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_15
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 3053
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56874d46ba24b88f0800000000000000
+      internalID: -537262426642155419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_16
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 3066
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b10ebdf83a8e50800000000000000
+      internalID: 6812320048816961569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_17
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 2370
+        width: 676
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b16827f7f75120800000000000000
+      internalID: 2402661567131922908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2366
+        width: 694
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2643495abeaa36f80800000000000000
+      internalID: -8114454174519511966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2365
+        width: 683
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b49d516015082cb0800000000000000
+      internalID: -4888651827599534919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_20
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 2366
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeec514f0d853790800000000000000
+      internalID: -7550974103556133152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_21
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2271
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb091bb4fab5310800000000000000
+      internalID: 1394901249237761054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_22
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2260
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a56deee18d36cf10800000000000000
+      internalID: 2289585088833086883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_23
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2253
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206908dba123d1f00800000000000000
+      internalID: 1089081775323387394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_24
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 2258
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e642e6678d769a0800000000000000
+      internalID: -6239780755532911036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2194
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc0e947ec5543280800000000000000
+      internalID: -9064525804781826860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_26
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1593
+        width: 694
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245ac028dd73beeb0800000000000000
+      internalID: -4689593162467072702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1559
+        width: 694
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f210ed956c1be1c00800000000000000
+      internalID: 873330843225817391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_28
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2181
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c4e01772a6c8430800000000000000
+      internalID: 3786518104344775727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_29
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1583
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5744ba5a40d5190800000000000000
+      internalID: -7972210655786404380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_30
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1405
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57068ac57e1a9e820800000000000000
+      internalID: 2948065446154756213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_31
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1189
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0984223f4a4dd790800000000000000
+      internalID: -7503759700125251318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_32
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1151
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e3c1f564842cf20800000000000000
+      internalID: 3441392532345077348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_33
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 301
+        width: 116
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee429577f3375000800000000000000
+      internalID: 24545460896288481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_34
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 322
+        width: 182
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4355c0d123e4910800000000000000
+      internalID: 1823449999473980628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_35
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 381
+        width: 235
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce413fe3c49c41770800000000000000
+      internalID: 8580704519358452972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_36
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 494
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba95a7a0ca6149240800000000000000
+      internalID: 4797484431222397355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_37
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 368
+        width: 4
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23aef82444598240800000000000000
+      internalID: 4794455930034889517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOGOSAire_38
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 331
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663a27418bfa7ed90800000000000000
+      internalID: -7068487884982803610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

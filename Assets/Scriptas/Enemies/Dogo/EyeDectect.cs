@@ -4,10 +4,14 @@ using UnityEngine;
 
 public class EyeDectect : MonoBehaviour
 {
-    // Start is called before the first frame update
+    string tag;
+   
+    public  float vida;
+
     void Start()
     {
-        
+        tag = this.gameObject.tag;
+        vida = 30;
     }
 
     // Update is called once per frame
@@ -20,6 +24,15 @@ public class EyeDectect : MonoBehaviour
         if (Collider2D.tag == "RedP")
         {
             Debug.Log("Herido");
+
+            if (tag.Equals("EarthDogo")) // tag == "tierra"
+            {
+                vida -= 10;
+            }
+            else
+            {
+                vida-= 5;
+            }
         }
         if (Collider2D.tag == "BlueP")
         {
