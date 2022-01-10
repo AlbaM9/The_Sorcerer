@@ -7,17 +7,31 @@ public class EyeDectect : MonoBehaviour
     string tag;
    
     public  float vida;
+    public PlayerStats playerScript;
+
+    public bool isBurning = false;
+
+    private Renderer rend;
+    private Color originalColor;
+    public Color selectedColor = Color.red;
 
     void Start()
     {
         tag = this.gameObject.tag;
         vida = 30;
+
+        rend = GetComponent<Renderer>();
+        originalColor = rend.material.color;
+        playerScript = FindObjectOfType<PlayerStats>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (isBurning == true)
+        {
+            StartCoroutine(VenusDPS());
+        }
     }
     private void OnTriggerEnter2D(Collider2D Collider2D)
     {
@@ -27,16 +41,78 @@ public class EyeDectect : MonoBehaviour
 
             if (tag.Equals("EarthDogo")) // tag == "tierra"
             {
-                vida -= 10;
+                
+                if (playerScript.mercury == 1) 
+                {
+                    vida -= 20;
+                
+                    if (playerScript.venus == 1)
+                    {
+                        isBurning = true;
+
+                    }
+                }
+                else
+                {
+                    vida -= 10;
+
+                    if (playerScript.venus == 1)
+                    {
+                        isBurning = true;
+
+                    }
+                }
+
             }
             else
             {
-                vida-= 5;
+                if (playerScript.mercury == 1)
+                {
+                    vida -= 10;
+
+                    if (playerScript.venus == 1)
+                    {
+                        isBurning = true;
+
+                    }
+                }
+                else
+                {
+                    vida -= 5;
+                    if (playerScript.venus == 1)
+                    {
+                        isBurning = true;
+
+                    }
+                }
+
             }
+            
         }
         if (Collider2D.tag == "BlueP")
         {
             Debug.Log("Herido");
+
+            if (tag.Equals("FireDogo"))
+            {
+                vida -= 10;
+
+                if (playerScript.venus == 1)
+                {
+                    isBurning = true;
+
+                }
+            }
+            else
+            {
+                vida -= 5;
+
+                if (playerScript.venus == 1)
+                {
+                    isBurning = true;
+
+                }
+            }
 
         }
         if (Collider2D.tag == "PurpleP")
@@ -50,6 +126,28 @@ public class EyeDectect : MonoBehaviour
         if (Collider2D.tag == "BlackP")
         {
             Debug.Log("Herido");
+            Debug.Log("Herido");
+
+            if (tag.Equals("FireDogo"))
+            {
+                vida -= 5;
+
+                if (playerScript.venus == 1)
+                {
+                    isBurning = true;
+
+                }
+            }
+            else
+            {
+                vida -= 5;
+
+                if (playerScript.venus == 1)
+                {
+                    isBurning = true;
+
+                }
+            }
         }
 
     }
@@ -77,6 +175,19 @@ public class EyeDectect : MonoBehaviour
             
         }
 
-    } 
-   
+    }
+    public IEnumerator VenusDPS()
+    {
+
+        // recibe un porcentaje de daño de forma pasiva durante 3 segundos
+        
+        rend.material.color = selectedColor;
+        vida -= 0.5f * Time.deltaTime;
+        yield return new WaitForSeconds(3f);
+        rend.material.color = originalColor;
+        isBurning = false;
+
+
+
+    }
 }
