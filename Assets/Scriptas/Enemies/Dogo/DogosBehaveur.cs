@@ -14,6 +14,7 @@ public class DogosBehaveur : MonoBehaviour
 
     public GameObject dogoEye;
     public GameObject attackDetector;
+    
     public enum DogoStatus
     {
 
@@ -26,9 +27,11 @@ public class DogosBehaveur : MonoBehaviour
 
     void Start()
     {
+       
         fBStatus = DogoStatus.IDLE;
         anim = GetComponent<Animator>();
         
+
         StartCoroutine(Statuses());
         dogoEye.SetActive (false);
         attackDetector.SetActive(true);

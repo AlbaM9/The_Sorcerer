@@ -1925,6 +1925,11 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!212 &646825313 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 1257772594343824946, guid: 8273f61bb646e584eb63de539abbfa3b, type: 3}
+  m_PrefabInstance: {fileID: 5731422597290728422}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &659688924
 GameObject:
   m_ObjectHideFlags: 0
@@ -2958,6 +2963,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e17fde8224a01746904dc20a546cf70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vida: 0
+  playerScript: {fileID: 0}
+  isBurning: 0
+  originalColor: {r: 0, g: 0, b: 0, a: 0}
+  selectedColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &980709278
 GameObject:
   m_ObjectHideFlags: 0
@@ -4432,6 +4442,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e17fde8224a01746904dc20a546cf70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vida: 0
+  playerScript: {fileID: 0}
+  isBurning: 0
+  originalColor: {r: 0, g: 0, b: 0, a: 0}
+  selectedColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &1266856811
 GameObject:
   m_ObjectHideFlags: 0
@@ -6818,6 +6833,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e17fde8224a01746904dc20a546cf70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vida: 0
+  playerScript: {fileID: 0}
+  isBurning: 0
+  originalColor: {r: 0, g: 0, b: 0, a: 0}
+  selectedColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1001 &2128078745
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6929,6 +6949,14 @@ PrefabInstance:
     - target: {fileID: 1257772594343824946, guid: 8273f61bb646e584eb63de539abbfa3b, type: 3}
       propertyPath: m_Color.r
       value: 0.33333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 5731422596183099514, guid: 8273f61bb646e584eb63de539abbfa3b, type: 3}
+      propertyPath: rend
+      value: 
+      objectReference: {fileID: 646825313}
+    - target: {fileID: 5731422596183099514, guid: 8273f61bb646e584eb63de539abbfa3b, type: 3}
+      propertyPath: vida
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 5780630635813494827, guid: 8273f61bb646e584eb63de539abbfa3b, type: 3}
       propertyPath: m_RootOrder
